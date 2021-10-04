@@ -132,7 +132,9 @@ A solution to this for WeChat to automate the 'genuine product' check without fo
 
 # Summary
 
-To summarise, Tecent's WeChat packs-a-punch with more than one standalone functionalities (IM, SNS, Games, Business Marketing tied in with integrated Payments) to provide conveniant solutions for it's users. There are areas which WeChat excels in, as well as aspects which can be further improved. The wave of new emerging technologies (such as Blockchain), can help to tackle some real world problems (authenticating products) in addition to enhancing current successes (entice more users).
+To summarise, Tecent's WeChat packs-a-punch with more than one standalone functionalities to provide conveniant solutions for it's users. The rise to Social Media with FinTech enabled added explosive growth for WeChat in its early days which supplemented respective users with integrated Payments in one place.
+
+There are areas where WeChat excels, as well as aspects which can be further improved. The wave of new emerging technologies (such as Blockchain), can help to tackle some real problems faced by the company (such as authentication of genuine products) in addition to enhancements within current features (ability to entice more users).
 Ultimately, competition can drive innovation yet the trick is to avoid getting complacent when your ahead!
 
 ---
