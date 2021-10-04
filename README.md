@@ -27,7 +27,7 @@ We will soon discover how WeChat plays a significant role in encouraging the mov
 
 On the surface, WeChat appears to be like any other Instant Messaging (IM)service, however further research diving deeper under the hood shows that it is clearly evident there are a number of other services [^5] which enable convieniance for users in the real world.
 
-Social media is one aspect which WeChat fulfills, in addtion to an IM service between users, enabling people to share their story to bring people together. WeChat is not the first platform to allow for SNS, in fact they were a little late to the game compared to other giants like Facebook [^6]. Nevertheless, the effects of social media in any industry has shown to generate astounding results, especially when it is inclusive of all people and is easy to use. The table below outlines the explosive user count expansion experienced by WeChat and it's subsequent business developments .
+Social media is one aspect of capability which WeChat provides between users in addition to an IM service, all while enabling people to share their story and bring people together . WeChat is not the first platform to allow for SNS, in fact they were a little late to the game compared to other giants like Facebook [^6]. Nevertheless, the effects of social media in any industry has shown to generate astounding results, especially when it is inclusive of all people and is easy to use. The table below outlines the explosive user count expansion experienced by WeChat and it's subsequent business developments .
 
 ### Year vs User Count
 | Tables | Number of Users | Next Business Move        |
