@@ -105,12 +105,16 @@ WeChat is seen by many western firms to be a portal into the much 'unexplored Ch
 
 Givenchy is not the only brands to see success on WeChat, and the likes of Montblanc, Mulberry, Calvin Klein, Coach, and many other highend companies have also reaped rewards [^23].
 
-In addition, not only are companies benefiting, sometimes international government organisations, such as Tourism New Zealand, have also seen a boost; adding 40 million new followers, and conjouring 540 new aricltes worth USD$2.4 million [^24].
+In addition, not only are companies benefiting, sometimes international government organisations, such as Tourism New Zealand, have also witnessed a huge boost through WeChat partnerships and payment technology options.
+
+> - *"The increased traffic led to almost 20,000 referrals. According to Tourism New Zealand."*  
+
+This produced 530 new articles, which in effect resulted in almost half-a-million visits to the campaign's tourist village [^24]. The value generated from this SNS campaign was estimated to be worth more than USD$2.7 million alone, prior to calculating the added business for the townspeople of the promoted destination.
 
 ![](NZKOL.png)  
 <font size="1"> *Fig5. Key Opinion Leader (KOL) Yao Chen advertises for Tourism New Zealand Image [*Reference here*](https://www.luxion.com.au/social-media/20-brilliant-weibo-and-wechat-marketing-case-studies-to-inspire-your-chinese-marketing-success/#casestudy4). </font>
 
-The success of product marketing has also presented a unique challenge within the sucessful WeChat ecosystem. There have been cases where individual sellers on the platform have begun to sell counterfiet luxury goods, also known as 'high quality fake' luxury goods then proceed to sell those items at noticably lower price-points or even at the same price as the genuines [^25]. Health products are more of a concern because some genuine products contain hormones, which counterfiet products cannot exactly replicate, putting risk on the consumer [^26]. Currently there is no strongly enforced supervision mechanism in WeChat, effectively enabling the continued questionable activities of counterfit sellers.
+The success of product marketing has also presented a unique challenge within the WeChat ecosystem. There have been cases where individual sellers on the platform have begun to sell counterfiet luxury goods, also known as 'high quality fake' luxury goods then proceed to sell those items at noticably lower price-points or even at the same price as the genuines [^25]. Health products are more of a concern because some genuine products contain hormones, which counterfiet products cannot exactly replicate, putting risk on the consumer [^26]. Currently there is no strongly enforced supervision mechanism in WeChat, effectively enabling the continued questionable activities of counterfit sellers.
 
 ---
 
@@ -125,6 +129,10 @@ A solution to this for WeChat to automate the 'genuine product' check without fo
 **WeChat Mini Games** is another area where WeChat has diversified into with success [^29] [^30] and the proven SNS and FinTech technologies avaialble to Tencent can be applied to increase interest for the company and those wishing to do business with subsidary WeChat firm. WeChat Mini Games comprises of a multitude of easy-to-play electronic games, which has the ability to incorporate brands within games [^31]. Games are a natural way for users to interact and learn which is a feature of the human mind being explored amongst academics in the digital age [^32], therefore, incepting brands to players is so much a farfetched idea. To further pique the interest of users, WeChat can implement a **play-to-earn** blockchain for its users, a methodology to reward players who play games [^33] and entice new potential users. An extension to this is to add additional functionaility, such as Non-Fungible-Tokens (NFTs) as rewards or purchase items; adding to the current excitment in the FinTech industry [^34]. Essentially, the effects of Play-to-Earn would supplement the incentive for users to continue playing, enabling the extended opportunity for players to be exposed to relevant advertisements or cognating users with brands which are integrated into WeChat Mini Games.
 
 ---
+
+# Summary
+
+To summarise, Tecent's WeChat acts as a 'package of goodies' more than one standalone 
 
 
 [^1]: Most Valuable Company in Asia. https://web.archive.org/web/20171117003210/http://www.firstpost.com/tech/news-analysis/tencent-posts-69-percent-jump-in-quarterly-net-profit-becomes-the-most-valuable-company-in-asia-4211333.html. Retrived 30 August 2021.
