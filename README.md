@@ -31,7 +31,7 @@ Social media is one aspect of capability which WeChat provides between users in 
 
 ### Year vs User Count
 | Tables | Number of Users | Next Business Move        |
-|--------|:---------------:|-------------------------- |
+|--------:|:--------------:|:------------------------- |
 |  2012  |   100 Million   | International market push |
 |  2013  |   400 Million   | Launch of WeChat Payments |
 |  2016  |   889 Million   | >90% of users from China  |
