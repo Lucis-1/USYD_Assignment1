@@ -143,7 +143,7 @@ A solution to this for WeChat to automate the 'genuine product' check without fo
 
 [^8]: "Payment methods in China: How China became a mobile-first nation". https://daxueconsulting.com/payment-methods-in-china/. Retrieved 03 October 2021.
 
-[^9] China’s Alipay and WeChat Pay: Reaching Rural Users. https://openknowledge.worldbank.org/handle/10986/30112. Retrieved 03 October 2021.
+[^9]: China’s Alipay and WeChat Pay: Reaching Rural Users. https://openknowledge.worldbank.org/handle/10986/30112. Retrieved 03 October 2021.
 
 [^10]: E-Commerce helping Rural Farmers. https://techwireasia.com/2020/01/how-e-commerce-is-helping-farmers-in-rural-china-sell-apples-and-peppers/. Retrved 03 October 2021.
 
@@ -157,7 +157,7 @@ A solution to this for WeChat to automate the 'genuine product' check without fo
 
 [^15]: How China Is Changing Your Internet - The New York Times on YouTube Published on 9 August 2016. https://www.nytimes.com/video/technology/100000004574648/china-internet-wechat.html. Retrieved 04 October 2021.
 
-[^16] Is China’s new payment system the future? https://www.brookings.edu/research/is-chinas-new-payment-system-the-future/. Retrieved 04 October 2021.
+[^16]: Is China’s new payment system the future? https://www.brookings.edu/research/is-chinas-new-payment-system-the-future/. Retrieved 04 October 2021.
 
 [^17]: Monthly Facebook Users. https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/. Retrieved 04 October 2021.
 
