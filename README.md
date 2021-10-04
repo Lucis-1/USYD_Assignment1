@@ -101,7 +101,7 @@ As a result of an integrated SM/IM/Payments system, WeChat has witnessed tremend
 WeChat is seen by many western firms to be a portal into the much 'unexplored Chinese markets'. Take for example Givenchy Paris, a fashion brand looking to raise awareness in China. Givenchy partnered with WeChat to advertise utilising a native WeChat application to promote their brand and new products, harnessing WeChat's established digital environment. The product was a limited edition 'collection' handbag with 80 units on sale; in less than 12 minutes, the line was sold out[^22].
 
 ![](GivenchyPromotion.png)  
-<font size="1"> *Fig4. Givenchy Advertisement Image [*Reference here*](https://nealschaffer.com/5-brands-case-studies-wechat/). </font>
+<font size="1"> *Fig4. Givenchy Advertisement Image* [*Reference here*](https://nealschaffer.com/5-brands-case-studies-wechat/). </font>
 
 Givenchy is not the only brands to see success on WeChat, and the likes of Montblanc, Mulberry, Calvin Klein, Coach, and many other highend companies have also reaped rewards [^23].
 
@@ -112,7 +112,7 @@ In addition, not only are companies benefiting, sometimes international governme
 This produced 530 new articles, which in effect resulted in almost half-a-million visits to the campaign's tourist village [^24]. The value generated from this SNS campaign was estimated to be worth more than USD$2.7 million alone, prior to calculating the added business for the townspeople of the promoted destination.
 
 ![](NZKOL.png)  
-<font size="1"> *Fig5. Key Opinion Leader (KOL) Yao Chen advertises for Tourism New Zealand Image [*Reference here*](https://www.luxion.com.au/social-media/20-brilliant-weibo-and-wechat-marketing-case-studies-to-inspire-your-chinese-marketing-success/#casestudy4). </font>
+<font size="1"> *Fig5. Key Opinion Leader (KOL) Yao Chen advertises for Tourism New Zealand Image* [*Reference here*](https://www.luxion.com.au/social-media/20-brilliant-weibo-and-wechat-marketing-case-studies-to-inspire-your-chinese-marketing-success/#casestudy4). </font>
 
 The success of product marketing has also presented a unique challenge within the WeChat ecosystem. There have been cases where individual sellers on the platform have begun to sell counterfiet luxury goods, also known as 'high quality fake' luxury goods then proceed to sell those items at noticably lower price-points or even at the same price as the genuines [^25]. Health products are more of a concern because some genuine products contain hormones, which counterfiet products cannot exactly replicate, putting risk on the consumer [^26]. Currently there is no strongly enforced supervision mechanism in WeChat, effectively enabling the continued questionable activities of counterfit sellers.
 
@@ -132,8 +132,10 @@ A solution to this for WeChat to automate the 'genuine product' check without fo
 
 # Summary
 
-To summarise, Tecent's WeChat acts as a 'package of goodies' more than one standalone 
+To summarise, Tecent's WeChat packs-a-punch with more than one standalone functionalities (IM, SNS, Games, Business Marketing tied in with integrated Payments) to provide conveniant solutions for it's users. There are areas which WeChat excels in, as well as aspects which can be further improved. The wave of new emerging technologies (such as Blockchain), can help to tackle some real world problems (authenticating products) in addition to enhancing current successes (entice more users).
+Ultimately, competition can drive innovation yet the trick is to avoid getting complacent when your ahead!
 
+---
 
 [^1]: Most Valuable Company in Asia. https://web.archive.org/web/20171117003210/http://www.firstpost.com/tech/news-analysis/tencent-posts-69-percent-jump-in-quarterly-net-profit-becomes-the-most-valuable-company-in-asia-4211333.html. Retrived 30 August 2021.
 
