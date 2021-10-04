@@ -12,7 +12,7 @@ In addition, we will uncover Wechat's competition and how we can utilise emergin
 
 ## Tencent
 ![](TencentLogo.png)  
-<font size="1"> *Fig1. Tencent's Logo https://www.tencent.com/*. </font>
+<font size="1"> *Fig1. Tencent's Logo Reference page https://www.tencent.com/*. </font>
 
 **Tencent**, forged in 1998 and formally known as ***Tencent Holdings Ltd.***, is a major success story within the global FinTech arena, being the first asian Technology company to surpass the US$500 billion valuation mark in 2018 [^1], and owns stakes in over 600 individual firms[^2].
 
@@ -23,7 +23,7 @@ We will soon discover how WeChat plays a significant role in encouraging the mov
 ## WeChat
 
 ![](WeChat.png)  
-<font size="1"> *Fig2. WeChat's Logo https://www.wechat.com/*. </font>
+<font size="1"> *Fig2. WeChat's Logo Reference page https://www.wechat.com/*. </font>
 
 On the surface, WeChat appears to be like any other Instant Messaging (IM)service, however further research diving deeper under the hood shows that it is clearly evident there are a number of other services [^5] which enable convieniance for users in the real world.
 
@@ -37,7 +37,7 @@ Social media is one aspect which WeChat fulfills, in addtion to an IM service be
 |  2016  |   889 Million   | >90% of users from China  |
 |  2019  |    1  Billion   | Active users              |
 
-<font size="1"> *Table 1: Outlines WeChat user count history between 2012 and 2019*. </font>
+<font size="1"> *Table 1: Outlining WeChat user count history between 2012 and 2019*. </font>
 
 The plethora of social users interested in WeChat was further fueled by the notable roll-out of the FinTech payments aspect into the application, called *'WeChat Payments'*, which contributed to adding more than 100 million new active users on average each year from 2013 to 2016 [^7]. How WeChat managed this notable feat of achievement was only due to the lack of an exisitng SNS platform in China but also the decision to integrate the *Quick Response (QR)* code technology for the frontend of payments between people, which escalated the utilisation of the application; this largly eliminated an individuals direct technical aptitude, paving the way for business growth [^8]. The shear volume of users, coupled with an easy-to-use integrated payments system, which is a unique story in its own right within the payments domain of FinTech.
 
@@ -101,14 +101,14 @@ As a result of an integrated SM/IM/Payments system, WeChat has witnessed tremend
 WeChat is seen by many western firms to be a portal into the much 'unexplored Chinese markets'. Take for example Givenchy Paris, a fashion brand looking to raise awareness in China. Givenchy partnered with WeChat to advertise utilising a native WeChat application to promote their brand and new products, harnessing WeChat's established digital environment. The product was a limited edition 'collection' handbag with 80 units on sale; in less than 12 minutes, the line was sold out[^22].
 
 ![](GivenchyPromotion.png)  
-<font size="1"> *Fig4. Givenchy Advertisement Image [*Found here*](https://nealschaffer.com/5-brands-case-studies-wechat/). </font>
+<font size="1"> *Fig4. Givenchy Advertisement Image [*Reference here*](https://nealschaffer.com/5-brands-case-studies-wechat/). </font>
 
 Givenchy is not the only brands to see success on WeChat, and the likes of Montblanc, Mulberry, Calvin Klein, Coach, and many other highend companies have also reaped rewards [^23].
 
 In addition, not only are companies benefiting, sometimes international government organisations, such as Tourism New Zealand, have also seen a boost; adding 40 million new followers, and conjouring 540 new aricltes worth USD$2.4 million [^24].
 
 ![](NZKOL.png)  
-<font size="1"> *Fig5. Key Opinion Leader (KOL) Yao Chen advertises for Tourism New Zealand Image [*Found here*](https://www.luxion.com.au/social-media/20-brilliant-weibo-and-wechat-marketing-case-studies-to-inspire-your-chinese-marketing-success/#casestudy4). </font>
+<font size="1"> *Fig5. Key Opinion Leader (KOL) Yao Chen advertises for Tourism New Zealand Image [*Reference here*](https://www.luxion.com.au/social-media/20-brilliant-weibo-and-wechat-marketing-case-studies-to-inspire-your-chinese-marketing-success/#casestudy4). </font>
 
 The success of product marketing has also presented a unique challenge within the sucessful WeChat ecosystem. There have been cases where individual sellers on the platform have begun to sell counterfiet luxury goods, also known as 'high quality fake' luxury goods then proceed to sell those items at noticably lower price-points or even at the same price as the genuines [^25]. Health products are more of a concern because some genuine products contain hormones, which counterfiet products cannot exactly replicate, putting risk on the consumer [^26]. Currently there is no strongly enforced supervision mechanism in WeChat, effectively enabling the continued questionable activities of counterfit sellers.
 
@@ -143,7 +143,7 @@ A solution to this for WeChat to automate the 'genuine product' check without fo
 
 [^8]: "Payment methods in China: How China became a mobile-first nation". https://daxueconsulting.com/payment-methods-in-china/. Retrieved 03 October 2021.
 
-[^9] China’s Alipay and WeChat Pay: Reaching Rural Users. https://openknowledge.worldbank.org/handle/10986/30112. Retrieved 03 October 2021.
+[^9]: China’s Alipay and WeChat Pay: Reaching Rural Users. https://openknowledge.worldbank.org/handle/10986/30112. Retrieved 03 October 2021.
 
 [^10]: E-Commerce helping Rural Farmers. https://techwireasia.com/2020/01/how-e-commerce-is-helping-farmers-in-rural-china-sell-apples-and-peppers/. Retrved 03 October 2021.
 
@@ -157,7 +157,7 @@ A solution to this for WeChat to automate the 'genuine product' check without fo
 
 [^15]: How China Is Changing Your Internet - The New York Times on YouTube Published on 9 August 2016. https://www.nytimes.com/video/technology/100000004574648/china-internet-wechat.html. Retrieved 04 October 2021.
 
-[^16] Is China’s new payment system the future? https://www.brookings.edu/research/is-chinas-new-payment-system-the-future/. Retrieved 04 October 2021.
+[^16]: Is China’s new payment system the future? https://www.brookings.edu/research/is-chinas-new-payment-system-the-future/. Retrieved 04 October 2021.
 
 [^17]: Monthly Facebook Users. https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/. Retrieved 04 October 2021.
 
